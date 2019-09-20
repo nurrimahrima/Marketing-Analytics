@@ -36,3 +36,8 @@ A/B Testing enables us to determine whether changes in landing pages, popup form
 
 Here we will discuss the implementation of **A/B Testing** on E-Commerce website.
 Happy Reading:)
+
+References:
+https://searchcustomerexperience.techtarget.com/definition/market-basket-analysis
+https://towardsdatascience.com/how-to-build-a-simple-recommender-system-in-python-375093c3fb7d
+https://www.business-science.io/business/2019/03/11/ab-testing-machine-learning.html
