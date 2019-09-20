@@ -39,6 +39,6 @@ Happy Reading:)
 
 
 **References:**<br>
-https://searchcustomerexperience.techtarget.com/definition/market-basket-analysis
-https://towardsdatascience.com/how-to-build-a-simple-recommender-system-in-python-375093c3fb7d
+https://searchcustomerexperience.techtarget.com/definition/market-basket-analysis <br>
+https://towardsdatascience.com/how-to-build-a-simple-recommender-system-in-python-375093c3fb7d <br>
 https://www.business-science.io/business/2019/03/11/ab-testing-machine-learning.html
